@@ -15,13 +15,12 @@ This is a simple **To-Do List app** made using Python. It lets you:
 ## Features
 
 - Command-line interface
-- Emoji-enhanced feedback
 - Status for completed and pending tasks
-- Simple and beginner-friendly
 
 ## Made By
 
 **Adarsh Pinjari**  
 1st Year CSE Student  
 CodSoft Python Programming Internship
+
 
