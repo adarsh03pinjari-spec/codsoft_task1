@@ -24,6 +24,8 @@ This is a simple **To-Do List app** made using Python. It lets you:
 3. Mark Task as Complete
 4. Delete a Task
 5. Exit
+
+   
 Choose an option (1-5): 1
 Enter a task to add: Complete Python assignment
 New task added!
@@ -48,6 +50,7 @@ Thank you for using Adarsh To-Do App.
 **Adarsh Pinjari**  
 1st Year CSE Student  
 CodSoft Python Programming Internship
+
 
 
 
