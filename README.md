@@ -27,22 +27,27 @@ This is a simple **To-Do List app** made using Python. It lets you:
 
    
 Choose an option (1-5): 1
+
 Enter a task to add: Complete Python assignment
 New task added!
 
 Choose an option (1-5): 2
+
 Your Current Tasks:
 1. [Pending] Complete Python assignment
 
-Choose an option (1-5): 3
+Choose an option (1-5): 3  
+
 Enter task number to mark as done: 1
 Task marked as completed!
 
 Choose an option (1-5): 2
+
 Your Current Tasks:
 1. [Done] Complete Python assignment
 
 Choose an option (1-5): 5
+
 Thank you for using Adarsh To-Do App.
 
 ## Made By
@@ -50,6 +55,7 @@ Thank you for using Adarsh To-Do App.
 **Adarsh Pinjari**  
 1st Year CSE Student  
 CodSoft Python Programming Internship
+
 
 
 
